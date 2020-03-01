@@ -1,0 +1,21 @@
+body {
+  width: 80vw;
+  margin: auto;
+}
+#my-face {
+  height: 10vw;
+  width: auto;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+#top-name {
+  color: black;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 90px;
+  text-align: center;
+  margin: 0 0 80vh 0;
+}
+.get_hidden {
+  color: red !important;
+}
